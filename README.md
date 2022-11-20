@@ -21,7 +21,7 @@ func _get_property_list() -> Array:
 
 ![Inspector Example](https://i.imgur.com/FsEF8Ul.png)
 
-Other most common uses are already simplified:
+Other common uses are already simplified:
 
 * Export arrays with add_array(), static typing supported.
 
