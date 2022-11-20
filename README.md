@@ -63,3 +63,5 @@ func _set(property: String, value) -> bool:
 
     return false
 ```
+
+![Inspector Example](https://i.imgur.com/8WRfiAl.png)
