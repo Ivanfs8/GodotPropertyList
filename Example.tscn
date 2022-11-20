@@ -6,5 +6,8 @@
 script = ExtResource( 1 )
 ex_int = 1
 ex_str = "Hello"
-ex_float = 2.0
+_cam = NodePath("Camera2D")
+ex_float = 0.0
 ex_arr = [ false, false, false ]
+
+[node name="Camera2D" type="Camera2D" parent="."]
